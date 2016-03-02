@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<div class="main-container">
+    <div class="main wrapper clearfix">
+        <article>                     
+            <header>
+                <h1>
+                	{% if page.external-url != null %}
+                		<a href="{{ page.external-url }}">{{ page.title }}</a>
+                	{% else %}
+                		{{ page.title }}
+                	{% endif %}
+                </h1>
+            </header>              
+            <section>
+                {{ content }}
+            </section>
+        </article>
+        <footer>
+            <h5 class="date"><a href="{{ post.url }}">{{ page.date | date_to_long_string }}</a></h5>
+        </footer>
+    </div> <!-- #main -->
+</div> <!-- #main-container -->
+
+<div class="footer-container">
+    <footer class="wrapper">
+        <img src="/img/pctag.png" alt="Closing tag">
+    </footer>
+</div>

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "gfycat: GIF -> HTML5 video = profit"
+external-url: "http://gfycat.com/"
+---
+
+Excellent GIF hosting service. 
+
+Converts to HTML5 video which speeds load times and allows pause/reverse/slow motion. Automatically serves a GIF if the device isn't HTML5 capable.
+
+Also, here's the first result for "[>site:gfycat.com](http://gfycat.com/MadeupIlliterateAmericanbulldog)" on Google.

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "CMSploit"
+external-url: "hhttp://feross.org/cmsploit/"
+---
+
+This is a little old, but very interesting and apparently common CMS exploit relating to text editor temporary files.

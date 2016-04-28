@@ -6,4 +6,4 @@ external-url: http://electronics.stackexchange.com/questions/230155/why-is-there
 
 Interesting thread with an impressive answer. 
 
-Now I'm surprised that LiPo batteries exist at all.
+Now I'm surprised that LiPo batteries exist at all. 

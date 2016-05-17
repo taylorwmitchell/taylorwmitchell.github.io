@@ -17,6 +17,8 @@ url: "http://taylinks.com" # the base hostname & protocol for your site
 twitter_username: taylorwmitchell
 github_username:  taylorwmitchell
 instagram_username: taylorwmitchell
+name: Taylor Mitchell's Linkblog
+url: http://taylinks.com
 
 # Build settings
 markdown: kramdown

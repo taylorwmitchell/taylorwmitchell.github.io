@@ -4,7 +4,7 @@ title: WhatBot
 permalink: /whatbot/
 ---
 
-WhatBot is an iOS app which uses the Google Cloud Vision API to tell you what is in a picture.
+WhatBot is an iOS app which uses the [Google Cloud Vision API](https://cloud.google.com/vision/) to tell you what is in a picture.
 
 Here's an example:
 ![WhatBot screenshot]({{ site.url }}/img/whatbot-screenshot.png)

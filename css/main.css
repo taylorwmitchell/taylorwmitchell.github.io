@@ -152,6 +152,8 @@ nav a:hover {
     height:90px;
 }
 
+img[alt="WhatBot screenshot"] { width: 300px; }
+
 header img {
     padding-top: 36px;
     padding-bottom: 36px;

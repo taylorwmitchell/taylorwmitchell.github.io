@@ -11,3 +11,5 @@ Here's an example:
 ![WhatBot screenshot]({{ site.url }}/img/whatbot-screenshot.png)
 
 You can find it on the App Store [here]().
+
+If you need any help with the app, [please send me a tweet](twitter.com/taylorwmitchell) or an [email](mailto:taylor@ponchochap.com).

@@ -12,4 +12,4 @@ Here's an example:
 
 You can find it on the App Store [here]().
 
-If you need any help with the app, [please send me a tweet](twitter.com/taylorwmitchell) or an [email](mailto:taylor@ponchochap.com).
+If you need any help with the app, [please send me a tweet (@taylorwmitchell)](twitter.com/taylorwmitchell) or an [email (taylor@taylinks.com)](mailto:taylor@taylinks.com).

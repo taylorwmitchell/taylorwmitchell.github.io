@@ -36,6 +36,7 @@ hr {
 
 img {
     vertical-align: middle;
+    max-width: 100% !important;
 }
 
 fieldset {
@@ -150,6 +151,8 @@ nav a:hover {
 .header-container{
     height:90px;
 }
+
+img[alt="WhatBot screenshot"] { width: 300px; }
 
 header img {
     padding-top: 36px;

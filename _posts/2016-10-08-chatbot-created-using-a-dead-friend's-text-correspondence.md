@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chatbot created using a deceased friend's text correspondence"
+title: "Chatbot created using a dead friend's text correspondence"
 external-url: http://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot
 ---
 
